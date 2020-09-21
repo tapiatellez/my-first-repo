@@ -1,30 +1,25 @@
-# This is a large heading
+#José Medardo Tapia Téllez
 
-## This is a smaller heading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Geography
+I live in the city of Cholula, in the state of Puebla, in Mexico.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Calculus* by Spivak
+- *The catcher in the rye* by Salinger
+- *The lord of the rings* by Tolkien
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Firedoor
+2. Pujol
+3. Mora-mora
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is [on FB] (http://facebook.com/tapiatellez).
